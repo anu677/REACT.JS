@@ -9,7 +9,7 @@ function App() {
   let myVariable=345;
   return (
     <>
-   <Header title="My ToDos List" searchBar={False}/>   
+   <Header title="My ToDos List"/>   
    <ToDos/>
    <Footer/>
     </>
